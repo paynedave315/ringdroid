@@ -10,7 +10,7 @@ android {
         // WARNING: if you increase targetSdkVersion you will need to take care of requesting
         // permissions at run time, as described here:
         // https://developer.android.com/training/permissions/index.html
-        targetSdkVersion 22
+        targetSdkVersion 34
         versionCode 20704
         versionName "2.7.4"
     }
